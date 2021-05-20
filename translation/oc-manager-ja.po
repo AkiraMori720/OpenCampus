@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oc Manager\n"
+"POT-Creation-Date: 2020-02-07 21:27+0800\n"
+"PO-Revision-Date: 2020-02-07 22:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: Solomon Team\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;_n:1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: translation\n"
+
+#: classes/base/Event_List_Table.php:72
+msgid "view"
+msgstr "詳細を見る"
+
+#: classes/base/Event_List_Table.php:122
+msgid "UnAccept"
+msgstr "未対応する"
+
+#: classes/base/Event_List_Table.php:122
+msgid "Accept"
+msgstr "対応する"
+
+#: classes/base/Event_List_Table.php:124
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: classes/base/Event_List_Table.php:135 classes/base/Event_List_Table.php:141
+msgid "Move To Trash"
+msgstr "ゴミ箱に移動"
+
+#: classes/base/Event_List_Table.php:136
+msgid "UnAccept Event"
+msgstr "未対応"
+
+#: classes/base/Event_List_Table.php:142
+msgid "Accept Event"
+msgstr "対応"
+
+#: classes/base/oc-event-post-admin.php:80
+msgid "No Categories. Please Insert Category!"
+msgstr "カテゴリが存在しません。"
+
+#: classes/base/oc-event-post-admin.php:190
+msgid "No Routes. Please Insert Routes!"
+msgstr "バスルートが存在しません。"
+
+#: classes/base/oc-event-post-admin.php:427
+msgid "All events"
+msgstr "すべてのイベント"
+
+#: classes/base/oc-event-post-admin.php:428
+msgid "Future events"
+msgstr "これからのイベント"
+
+#: classes/base/oc-event-post-admin.php:429
+msgid "Past events"
+msgstr "過去のイベント"
+
+#: classes/base/oc-event-post-admin.php:430
+msgid "Today's events"
+msgstr "本日のイベント"
+
+#: classes/base/oc-event-post-admin.php:431
+msgid "Tomorrow's events"
+msgstr "明日のイベント"
+
+#: classes/base/oc-event-post-admin.php:432
+msgid "Events this month"
+msgstr "今月のイベント"
+
+#: classes/base/oc-event-post-admin.php:460
+msgid "Title"
+msgstr "タイトル"
+
+#: classes/base/oc-event-post-admin.php:461
+msgid "UploadDate"
+msgstr "開催日"
+
+#: classes/base/oc-event-post-admin.php:462
+msgid "CheckNumber"
+msgstr "受付人員"
+
+#: classes/base/oc-event-post-admin.php:463
+msgid "UnCheckNumber"
+msgstr "未対応人員"
+
+#: classes/base/oc-event-post-admin.php:465
+msgid "Date"
+msgstr "日付"
+
+#: classes/base/oc-event-post-admin.php:502
+msgid "view detail"
+msgstr "申込者詳細を見る"
+
+#: classes/class-oc-dr-manager.php:42
+msgid "Data Request"
+msgstr "資料請求"
+
+#: classes/class-oc-dr-manager.php:43
+msgid "Doc Request Detail"
+msgstr "資料請求"
+
+#: classes/class-oc-enquiry-manager.php:38
+msgid "Enquiry"
+msgstr "問合せ"
+
+#: classes/class-oc-enquiry-manager.php:39
+msgid "Enquiry Detail"
+msgstr "問合せ"
+
+#: classes/event/class-oc-event-post-category.php:43
+msgid "Oc Event Categories"
+msgstr "カテゴリ"
+
+#: classes/event/class-oc-event-post-category.php:44
+#: classes/event/class-oc-event-post-category.php:51
+msgid "Oc Event Category"
+msgstr "カテゴリ"
+
+#: classes/event/class-oc-event-post-category.php:45
+msgid "Search Oc Event Categories"
+msgstr "検索 OC イベント カテゴリ"
+
+#: classes/event/class-oc-event-post-category.php:46
+msgid "All Oc Event Categories"
+msgstr "すべてのイベントカテゴリ"
+
+#: classes/event/class-oc-event-post-category.php:47
+msgid "Edit Oc Event Category"
+msgstr "イベントカテゴリを編集"
+
+#: classes/event/class-oc-event-post-category.php:48
+msgid "Update Oc Event Category"
+msgstr "イベントカテゴリを編集"
+
+#: classes/event/class-oc-event-post-category.php:49
+msgid "Add New Oc Event Category"
+msgstr "新しいイベントカテゴリを追加"
+
+#: classes/event/class-oc-event-post-category.php:50
+msgid "New Oc Event Category Name"
+msgstr "新しいイベントカテゴリ名"
+
+#: classes/event/class-oc-event-post-route.php:42
+msgid "Oc Event Routes"
+msgstr "バスルート"
+
+#: classes/event/class-oc-event-post-route.php:43
+#: classes/event/class-oc-event-post-route.php:50
+msgid "Oc Event Route"
+msgstr "バスルート"
+
+#: classes/event/class-oc-event-post-route.php:44
+msgid "Search Oc Event Routes"
+msgstr "バスルート探索"
+
+#: classes/event/class-oc-event-post-route.php:45
+msgid "All Oc Event Routes"
+msgstr "すべてのバスルート"
+
+#: classes/event/class-oc-event-post-route.php:46
+msgid "Edit Oc Event Route"
+msgstr "バスルートを編集"
+
+#: classes/event/class-oc-event-post-route.php:47
+msgid "Update Oc Event Route"
+msgstr "バスルートを編集"
+
+#: classes/event/class-oc-event-post-route.php:48
+msgid "Add New Oc Event Route"
+msgstr "新しいバスルートを追加"
+
+#: classes/event/class-oc-event-post-route.php:49
+msgid "New Oc Event Route Name"
+msgstr "新しいバスルート"
+
+#: classes/event/class-oc-event-post-type.php:66
+msgid "Oc Events"
+msgstr "イベント"
+
+#: classes/event/class-oc-event-post-type.php:67
+msgid "Oc Event"
+msgstr "イベント"
+
+#: classes/event/class-oc-event-post-type.php:68
+msgid "All Oc Events"
+msgstr "すべてのイベント"
+
+#: classes/event/class-oc-event-post-type.php:69
+msgid "Add New Oc Event"
+msgstr "新しいイベントを追加"
+
+#: classes/event/class-oc-event-post-type.php:70
+#: classes/event/class-oc-event-post-type.php:71
+msgid "New Oc Event"
+msgstr "新しいイベント"
+
+#: classes/event/class-oc-event-post-type.php:72
+msgid "Edit Oc Event"
+msgstr "イベントを編集"
+
+#: classes/event/class-oc-event-post-type.php:73
+msgid "View Oc Event"
+msgstr "イベントを見る"
+
+#: classes/event/class-oc-event-post-type.php:74
+msgid "Search Oc Events"
+msgstr "イベント探索"
+
+#: classes/event/class-oc-event-post-type.php:75
+msgid "No events found"
+msgstr "イベントが見つかりません"
+
+#: classes/event/class-oc-event-post-type.php:76
+msgid "No events found in Trash"
+msgstr "ゴミ箱にイベントが見つかりません"
+
+#: pages/doc_request.php:14 pages/doc_request.php:68 pages/doc_request.php:99
+#: pages/enquiry.php:14 pages/enquiry.php:63 pages/enquiry.php:94
+#: pages/request_list.php:21 pages/request_list.php:75
+#: pages/request_list.php:107
+msgid "ID"
+msgstr "ID"
+
+#: pages/doc_request.php:15 pages/enquiry.php:15 pages/request_list.php:22
+msgid "First Name"
+msgstr "名前(苗字)"
+
+#: pages/doc_request.php:16 pages/enquiry.php:16 pages/request_list.php:23
+msgid "Last Name"
+msgstr "名前(名前)"
+
+#: pages/doc_request.php:17 pages/enquiry.php:17 pages/request_list.php:24
+msgid "First Name Furigana"
+msgstr "フリガナ(苗字)"
+
+#: pages/doc_request.php:18 pages/request_list.php:25
+msgid "Last Name Furigana"
+msgstr "フリガナ(名前)"
+
+#: pages/doc_request.php:19 pages/request_list.php:26
+msgid "Sex"
+msgstr "男女"
+
+#: pages/doc_request.php:20 pages/enquiry.php:18 pages/request_list.php:27
+msgid "Email"
+msgstr "メールアドレス"
+
+#: pages/doc_request.php:21 pages/enquiry.php:19 pages/request_list.php:28
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: pages/doc_request.php:22 pages/request_list.php:29
+msgid "Birthday"
+msgstr "誕生年月日"
+
+#: pages/doc_request.php:23 pages/enquiry.php:20 pages/request_list.php:30
+msgid "Graduate School"
+msgstr "在学,卒業した学校"
+
+#: pages/doc_request.php:24 pages/enquiry.php:21 pages/request_list.php:31
+msgid "Grade"
+msgstr "学年、属性"
+
+#: pages/doc_request.php:25 pages/request_list.php:32
+msgid "Postal Code1"
+msgstr "郵便番号①"
+
+#: pages/doc_request.php:26 pages/request_list.php:33
+msgid "Postal Code2"
+msgstr "郵便番号②"
+
+#: pages/doc_request.php:27 pages/request_list.php:34
+msgid "Address"
+msgstr "住所"
+
+#: pages/doc_request.php:28 pages/enquiry.php:22 pages/request_list.php:35
+#: pages/request_list.php:78 pages/request_list.php:110
+msgid "Desire Subject"
+msgstr "希望学科"
+
+#: pages/doc_request.php:29
+msgid "Doc Request Content"
+msgstr "資料請求内容"
+
+#: pages/doc_request.php:30 pages/enquiry.php:24 pages/request_list.php:37
+msgid "Accepted"
+msgstr "対応する"
+
+#: pages/doc_request.php:31 pages/enquiry.php:25 pages/request_list.php:38
+msgid "Accepted Date"
+msgstr "対応付日"
+
+#: pages/doc_request.php:32 pages/doc_request.php:70 pages/doc_request.php:101
+#: pages/enquiry.php:26 pages/enquiry.php:65 pages/enquiry.php:96
+#: pages/request_list.php:39 pages/request_list.php:77
+#: pages/request_list.php:109
+msgid "Create Date"
+msgstr "受付日"
+
+#: pages/doc_request.php:69 pages/doc_request.php:100 pages/enquiry.php:64
+#: pages/enquiry.php:95 pages/request_list.php:76 pages/request_list.php:108
+msgid "Name"
+msgstr "氏名"
+
+#: pages/doc_request.php:71 pages/doc_request.php:102
+msgid "Data Request Content"
+msgstr "資料請求内容"
+
+#: pages/doc_request.php:79
+msgid "No Accept Data Request List"
+msgstr "未対応"
+
+#: pages/doc_request.php:110
+msgid "Accept Data Request List"
+msgstr "対応済み"
+
+#: pages/enquiry.php:23 pages/enquiry.php:66 pages/enquiry.php:97
+msgid "Enquiry Content"
+msgstr "問合せ内容"
+
+#: pages/enquiry.php:74
+msgid "No Accept Enquiry List"
+msgstr "未対応"
+
+#: pages/enquiry.php:105
+msgid "Accept Enquiry List"
+msgstr "対応済み"
+
+#: pages/request_list.php:36
+msgid "Request Content"
+msgstr "質問など"
+
+#: pages/request_list.php:87
+msgid "No Accepted Event List"
+msgstr "未対応"
+
+#: pages/request_list.php:120
+msgid "Accepted Event List"
+msgstr "対応済み"
+
+#, php-format
+#~ msgid "%s ID"
+#~ msgstr "%s ID"
+
+#~ msgid "Event"
+#~ msgstr "イベント"

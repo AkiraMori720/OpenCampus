@@ -1,0 +1,123 @@
+
+.oc-event-plugin-detail-header{
+    padding: 30px 20px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.oc-event-plugin-detail-header span{
+    font-weight: bold;
+    font-size: large;
+}
+
+.oc-event-plugin-detail-header a{
+    text-align: right;
+}
+
+.oc-event-plugin-detail-header .oc-event-request-detail-title{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.oc-event-plugin-detail-body{
+    margin: 40px 20px 0 10px;
+    border: 1px solid #dfdfdf;
+    background: #fff;
+    padding: 8px 20px;
+    padding-bottom: 40px;
+    box-sizing: border-box; 
+    font-size: 18px;
+    line-height: normal;
+}
+
+.oc-event-plugin-detail-body li{
+    padding-bottom: 3px;
+    display: flex;
+    flex-direction: row;
+}
+
+.oc-event-plugin-detail-body li i{
+    font-size: large;
+    padding-right : 10px;
+    padding-top : 3px;
+}
+
+
+.oc-event-plugin-detail-body li span{
+    padding-right : 40px;
+}
+
+.oc-event-plugin-detail-body .line-section{
+    padding-left: 70px;
+}
+
+.oc-event-plugin-detail-body .detail-title-text{
+    font-weight: bold;
+}
+
+.oc-event-plugin-detail-body .detail-item-title{
+    font-weight: bold;
+    padding-right : 8px;
+}
+
+.oc-event-plugin-detail-body .detail-content-text{
+    font-weight: normal;
+}
+
+.oc-event-plugin-detail-body .detail-course{
+    margin-bottom: 8px;
+    margin-left: 32px;
+}
+
+
+.oc-event-plugin-detail-body .oc-event-plugin-detail-li-button{
+    margin: 15px;
+    padding: 6px;
+    text-align: center;
+}
+
+.oc-event-plugin-detail-body .oc-event-plugin-detail-button{
+    background-color: #E3EDF8;
+    font-size: 30px;
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-radius: 3px;
+}
+
+.oc-event-plugin-detail-body .oc-event-memo-ul .oc-event-plugin-add-memo-button{
+    margin-top: 10px;
+    background-color: #E3EDF8;
+    font-size: 20px;
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-radius: 3px;
+    margin-right: 0px;
+}
+
+.oc-event-plugin-detail-body .oc-event-memo-ul .oc-event-memo-data{
+    margin-bottom: 10px;
+}
+
+.oc-event-plugin-detail-body .oc-event-memo-ul .oc-event-memo-button{
+    text-align: right;
+}
+
+.oc-event-plugin-detail-body .event-upload-date{
+    font-weight: bold;
+    margin-left: 24px;
+}
+
+#doc_request_no_accept .wp-list-table thead>tr th:nth-child(5){
+    width: 50%;
+}
+
+#doc_request_accept .wp-list-table thead>tr th:nth-child(5){
+    width: 50%;
+}
+
+#enquiry_no_accept .wp-list-table thead>tr th:nth-child(5){
+    width: 50%;
+}
+
+#enquiry_accept .wp-list-table thead>tr th:nth-child(5){
+    width: 50%;
+}

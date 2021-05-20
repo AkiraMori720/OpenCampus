@@ -1,0 +1,204 @@
+#oc-event-metabox_id .field_row{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	font-size: 14px;
+}
+
+#oc-event-metabox_id .post_field_required {
+    color: #f00;
+}
+
+#oc-event-metabox_id .field_row .option{
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+
+#oc-event-metabox_id .field_row .option input{
+	margin-left: 15px;
+}
+
+#oc-event-metabox_id .field_row .post_field{
+	padding: 4px;
+}
+
+#oc-event-metabox_id .field_row .post_field .post_field_label{
+	padding-bottom: 4px;
+	font-weight: bold;
+}
+
+
+#oc-event-metabox_id .field_row .post_field .input_content{
+	width: 100%;
+}
+
+#oc-event-metabox_id .field_row .post_field .post_field_content{
+	padding-top: 12px;
+}
+
+#oc-event-metabox_id .field_row .post_field_check{
+	padding: 4px;
+}
+
+#oc-event-metabox_id .field_row .post_field_check .check_box_field{
+	display: block;
+	padding-top: 8px;
+	justify-content: left;
+
+}
+
+#oc-event-metabox_id .field_row .post_field_check .check_box_field div{
+	padding: 4px 8px 0 0;
+	cursor: pointer;
+	float: left;
+}
+
+#oc-event-metabox_id .field_row .post_field_check .post_field_input_o{
+	width: 60%;
+}
+
+#oc-event-metabox_id .post_field_content {
+	position: relative;
+}
+
+#oc-event-metabox_id .post_field_content table{
+	width: 100%;
+}
+
+#oc-event-metabox_id .post_field_content table>tbody .table_header{
+	height: 35px;
+}
+
+#oc-event-metabox_id .post_field_content table>tbody .table_row{
+	height: 45px;
+}
+
+
+#oc-event-metabox_id .post_field_content .glyphicon {
+	font-size: 17px;
+	margin: 0 auto;
+	width: 40%;
+}
+  
+#oc-event-metabox_id .post_field_content .table-remove {
+	color: #700;
+	cursor: pointer;
+}
+
+#oc-event-metabox_id .post_field_content .table-remove:hover {
+	color: #f00;
+}
+  
+#oc-event-metabox_id .post_field_content .table-add {
+	color: #070;
+	cursor: pointer;
+}
+#oc-event-metabox_id .post_field_content .table-add:hover {
+	color: #f00;
+}
+
+#oc-event-metabox_id .post_field_content .add-btn{
+	float:right;
+	margin: 8px 0;
+}
+
+#oc-event-metabox_id .post_field_content table{
+	border: #DFDFDF solid 1px;
+	border-width: 1px 1px 0 0;
+	border-spacing: 0px;
+}
+
+#oc-event-metabox_id .post_field_content table .table_index{
+	background-color: #f4f4f4;;
+}
+
+#oc-event-metabox_id .post_field_content table .table_operation{
+	background-color: #f4f4f4;;
+}
+
+#oc-event-metabox_id .post_field_content table .hide_row{
+	display: none;
+}
+
+#oc-event-metabox_id .post_field_content table>tbody>tr>th {
+    border: #E1E1E1 solid 1px;
+    border-width: 0 0 1px 1px;
+}
+
+#oc-event-metabox_id .post_field_content table>tbody>tr>td {
+    border: #E1E1E1 solid 1px;
+	border-width: 0 0 1px 1px;
+	text-align: center;
+}
+
+#oc-event-metabox_id .post_field_content table .table_btn_field{
+	text-align: center;
+}
+
+#oc-event-metabox_id .post_field_course .course_table_header{
+	text-align:left;
+	vertical-align: top;
+	padding: 16px 8px 16px 8px;
+}
+
+
+#oc-event-metabox_id .post_field_course .course_table_main_img_upload{
+	margin: 10px auto;
+}
+
+#oc-event-metabox_id .post_field_course .course_table_main_img{
+	max-width: 800px;
+}
+
+#oc-event-metabox_id .post_field_course .course_data_table{
+	padding: 8px;
+}
+
+#oc-event-metabox_id .post_field_course .course_data_table .couse_data_table_row .block_data_media{
+	text-align: left;
+	padding: 8px;
+}
+
+#oc-event-metabox_id .post_field_course .course_data_table .couse_data_table_row .block_data_text{
+	text-align: left;
+	padding: 8px;
+}
+
+#oc-event-metabox_id .post_field_course .sub_course_table .sub_course_name{
+	width: 96%;
+	margin: 8px;
+}
+
+#oc-event-metabox_id .post_field_course .sub_course_table .sub-notice-warning {
+    background: #fff3e6;
+	color: #d16226;
+	position: relative;
+}
+
+#oc-event-metabox_id .post_field_course .sub_course_table .sub-notice-warning p {
+    font-size: 14px;
+    line-height: 2.5;
+    margin: 0.5em 0;
+    text-shadow: none;
+    color: inherit;
+}
+
+#oc-event-metabox_id .post_field_course .sub_course_table .sub-notice-warning.hidden{
+	display: none;
+}
+
+#oc-event-metabox_id .post_field_course .sub_course_table .sub-notice-warning .sub-notice-dismiss {
+    background: transparent;
+    color: inherit;
+    position: absolute;
+    border-color: transparent;
+    top: 2px;
+    right: 12px;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+	font-size: 18px;
+	padding: 4px;
+	cursor: pointer;
+}
